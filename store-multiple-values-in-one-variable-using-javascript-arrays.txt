@@ -1,0 +1,2 @@
+// Only change code below this line
+const myArray = ["I have", 1 , "pencil"];
